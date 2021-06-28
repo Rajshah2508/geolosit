@@ -1,1 +1,2 @@
-# geolosit
+# Geologist
+Geologist Project
